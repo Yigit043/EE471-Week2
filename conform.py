@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-"Junior Dev: YİĞİT"
-=======
 "Senior Dev: YİĞİT"
->>>>>>> feat/optimum-conform
 def pleaseConform(caps):
     if len(caps) == 0:
         return
@@ -51,3 +47,4 @@ def pleaseConform(caps):
 cap3 = ['B', 'B', 'B', 'H', 'B', 'F', 'B', 'B', 'B', 'F', 'H', 'F', 'F']
 pleaseConform(cap3)
 def pleaseConformOnepass(): pass
+# Tech lead approval has been added
