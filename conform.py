@@ -1,4 +1,4 @@
-"This script is written by YİĞİT"
+"Junior Dev: YİĞİT"
 def pleaseConform(caps):
     if len(caps) == 0:
         return
